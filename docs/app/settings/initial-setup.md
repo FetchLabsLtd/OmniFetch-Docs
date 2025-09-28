@@ -85,26 +85,26 @@ To get the most out of OmniFetch, enable notifications:
 <div class="hero-carousel-container" id="notificationCarousel" style="max-width: 600px;">
   <div class="hero-carousel-track">
     <div class="hero-carousel-item">
-      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-light1.png" 
+      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-light1.png"
            alt="Notification Permissions Step 1 - Light Mode" class="light-mode-only glightbox"
            data-glightbox="title: Step 1 - Allow Notifications" data-gallery="notification-setup">
-      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-dark1.png" 
+      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-dark1.png"
            alt="Notification Permissions Step 1 - Dark Mode" class="dark-mode-only glightbox"
            data-glightbox="title: Step 1 - Allow Notifications" data-gallery="notification-setup">
     </div>
     <div class="hero-carousel-item">
-      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-light2.png" 
+      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-light2.png"
            alt="Notification Permissions Step 2 - Light Mode" class="light-mode-only glightbox"
            data-glightbox="title: Step 2 - Enable Notifications" data-gallery="notification-setup">
-      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-dark2.png" 
+      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-dark2.png"
            alt="Notification Permissions Step 2 - Dark Mode" class="dark-mode-only glightbox"
            data-glightbox="title: Step 2 - Enable Notifications" data-gallery="notification-setup">
     </div>
     <div class="hero-carousel-item">
-      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-light3.png" 
+      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-light3.png"
            alt="Notification Permissions Step 3 - Light Mode" class="light-mode-only glightbox"
            data-glightbox="title: Step 3 - Confirm Setup" data-gallery="notification-setup">
-      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-dark3.png" 
+      <img src="../../../assets/images/settings-notifications/settings-notifications-permisisons-dark3.png"
            alt="Notification Permissions Step 3 - Dark Mode" class="dark-mode-only glightbox"
            data-glightbox="title: Step 3 - Confirm Setup" data-gallery="notification-setup">
     </div>

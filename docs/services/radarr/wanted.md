@@ -4,7 +4,7 @@ View movies that are monitored but not yet downloaded in your Radarr library thr
 
 ## Overview
 
-The Wanted tab displays movies from your Radarr instance that are being monitored but haven't been downloaded yet. 
+The Wanted tab displays movies from your Radarr instance that are being monitored but haven't been downloaded yet.
 This provides a quick way to see what content is still missing from your collection.
 
 <div class="hero-image-container" style="max-width: 800px;">

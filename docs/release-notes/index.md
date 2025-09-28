@@ -4,17 +4,17 @@ Welcome to the OmniFetch release notes! Here you'll find detailed information ab
 
 ## Latest Release
 
-### [Version 0.0.4 Build(273)](v0.0.4-273.md) - *September 21, 2025*
+### [Version 0.0.4 Build(295)](v0.0.4-295.md) - *September 28, 2025*
 
-## Navigation System & Infrastructure Improvements
+## Notification Navigation & UI Improvements
 
-- **New**: Comprehensive deep link navigation system for seamless app navigation
-- **Enhanced**: Webhook infrastructure with sandbox environment and debug capabilities
-- **Improved**: Notification system with badge synchronization and deduplication
-- **Added**: Context menu functionality for media items with enhanced interactions
-- **Fixed**: Service integration issues for Radarr, Jellyseerr, and Sonarr
+- **Enhanced**: Cross-service notification navigation with automatic view dismissal
+- **Improved**: Views now scroll to top when switching tabs or seasons
+- **Fixed**: Interactive search button reliability with loading states
+- **New**: iOS 18+ adaptive navigation bars with Liquid Glass effect
+- **Fixed**: Notification navigation from detail views and scroll position persistence
 
-[**View Full Release Notes →**](v0.0.4-273.md)
+[**View Full Release Notes →**](v0.0.4-295.md)
 
 ---
 
@@ -22,6 +22,8 @@ Welcome to the OmniFetch release notes! Here you'll find detailed information ab
 
 | Version | Date | Highlights |
 |---------|------|------------|
+| [0.0.4 Build(295)](v0.0.4-295.md) | September 28, 2025 | Notification navigation, scroll improvements, iOS 18+ styling |
+| [0.0.4 Build(286)](v0.0.4-286.md) | September 27, 2025 | Missing episode indicators, status badges, timezone fixes |
 | [0.0.4 Build(273)](v0.0.4-273.md) | September 21, 2025 | Deep link navigation, webhook infrastructure, notification enhancements |
 | [0.0.4 Build(248)](v0.0.4-248.md) | September 8, 2025 | Infrastructure improvements, webhook enhancements, i18n framework |
 | [0.0.4 Build(239)](v0.0.4-239.md) | September 7, 2025 | Push notifications, UI redesign, performance optimisations |
